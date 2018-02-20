@@ -1,1 +1,1 @@
-This is a Saimon game
+This is a Simon game
